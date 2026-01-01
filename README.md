@@ -140,7 +140,7 @@ future implications in the AI landscape.
 
 ```
 youtube-summarizer/
-├── app.py              # Main Streamlit application
+├── app_auto.py              # Main Streamlit application
 ├── requirements.txt    # Dependencies
 ├── .env.example        # Environment template
 ├── .gitignore          # Git ignore file
